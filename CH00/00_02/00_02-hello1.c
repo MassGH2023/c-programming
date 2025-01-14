@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello, world!");
+	printf("Hello, world! MSD Version\n");
 
 	return 0;
 }
